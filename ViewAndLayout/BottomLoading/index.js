@@ -1,3 +1,5 @@
+// 此方法实现触底加载的页面展示功能需求
+
 import React from 'react';
 import './styles/index.less'
 
